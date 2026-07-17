@@ -583,7 +583,7 @@ section { position: relative; padding: 120px 24px; overflow: hidden; }
 
 .invitation-lede {
   font-family: var(--font-heading);
-  font-size: clamp(1.15rem, 2.6vw, 1.5rem);
+  font-size: clamp(0.95rem, 2.1vw, 1.2rem);
   color: var(--charcoal-soft);
   line-height: 1.9;
   max-width: 640px;
